@@ -1,0 +1,6 @@
+numpy~=1.24.3
+pillow~=10.2.0
+torchvision~=0.18.0
+tqdm~=4.65.0
+clip~=1.0
+scikit-learn~=1.2.2
