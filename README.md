@@ -61,7 +61,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py --dataset red_imagenet --dataset_path ../d
 CUDA_VISIBLE_DEVICES=2 python main.py --dataset webvision --dataset_path ../datasets/WebVision --batch_size 64 --epochs 150 --milestones 80 120 --beta 0.5 --theta_r 0.7 --theta_r2 1 --theta_gmm 0.5 --theta_cons 1.0 --gpuid 2
 ```
 
-Please check Stackoverflow/Pytorch Forum/Google/ChatGPT for code debugging/package dependency/non-methodology issues.
+_Please kindly check Stackoverflow/Pytorch Forum, etc. for code debugging/package dependency/non-methodology issues._
 
 ### License
 This project is licensed under the terms of the MIT license.
