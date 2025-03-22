@@ -21,7 +21,7 @@ Compared to current methods that combine iterative sample selection with various
     year      = {2024}
 }
 ```
-Please considering ***cite our paper and star the repo*** if you find this repo useful.
+Please considering ***cite our paper and star the repo*** if you find this repo useful. Before you press the button to raise an issue, first ask yourself whether you have enough respect for others' unpaid open-source work. I am increasingly noticing that today's scholars lack respect for others, which is a very unfortunate phenomenon.
 
 ### Preparation
 - pytorch
