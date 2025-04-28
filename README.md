@@ -1,5 +1,12 @@
 ## **CLIPCleaner: Cleaning Noisy Labels with CLIP**
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/clipcleaner-cleaning-noisy-labels-with-clip/learning-with-noisy-labels-on-clothing1m)](https://paperswithcode.com/sota/learning-with-noisy-labels-on-clothing1m?p=clipcleaner-cleaning-noisy-labels-with-clip)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/clipcleaner-cleaning-noisy-labels-with-clip/learning-with-noisy-labels-on-animal)](https://paperswithcode.com/sota/learning-with-noisy-labels-on-animal?p=clipcleaner-cleaning-noisy-labels-with-clip)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/clipcleaner-cleaning-noisy-labels-with-clip/learning-with-noisy-labels-on-red)](https://paperswithcode.com/sota/learning-with-noisy-labels-on-red?p=clipcleaner-cleaning-noisy-labels-with-clip)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/clipcleaner-cleaning-noisy-labels-with-clip/learning-with-noisy-labels-on-red-1)](https://paperswithcode.com/sota/learning-with-noisy-labels-on-red-1?p=clipcleaner-cleaning-noisy-labels-with-clip)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/clipcleaner-cleaning-noisy-labels-with-clip/learning-with-noisy-labels-on-red-2)](https://paperswithcode.com/sota/learning-with-noisy-labels-on-red-2?p=clipcleaner-cleaning-noisy-labels-with-clip)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/clipcleaner-cleaning-noisy-labels-with-clip/learning-with-noisy-labels-on-red-3)](https://paperswithcode.com/sota/learning-with-noisy-labels-on-red-3?p=clipcleaner-cleaning-noisy-labels-with-clip)
+
 <p align="center">
     <img src="sources/acmmm.svg" alt="svg" width="600"/>
 </p>
